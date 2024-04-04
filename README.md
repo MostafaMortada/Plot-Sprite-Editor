@@ -5,7 +5,7 @@
 ## Overview
 
 This is a tool for the TI-84 Plus CE calculator to create Scatter plot sprites.
-Currently, this program is limited to 16x16 sprites at max, but there is a list joiner tool that may enable to create larger sprites.
+Currently, this program is limited to 16x16 sprites at max, but there is a built-in list joiner tool that may enable to create larger sprites.
 Only supports `Scatter` sprites.
 
 ___
